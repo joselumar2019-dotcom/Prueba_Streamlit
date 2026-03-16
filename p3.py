@@ -6,7 +6,7 @@ import streamlit as st
 st.header('Día 5: FLORES PERRO')
 
 # Ejemplo 1: Texto y emojis
-st.write('Hola, *Mundo!* :sunglasses: rocket:')
+st.write('Hola, *Mundo!* :sunglasses: :rocket:')
 
 # Ejemplo 2: Números
 st.write(1234)
