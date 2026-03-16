@@ -3,10 +3,10 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-st.header('Día 5: st.write')
+st.header('Día 5: FLORES PERRO')
 
 # Ejemplo 1: Texto y emojis
-st.write('Hola, *Mundo!* :sunglasses:')
+st.write('Hola, *Mundo!* :sunglasses: rocket:')
 
 # Ejemplo 2: Números
 st.write(1234)
